@@ -1,6 +1,6 @@
 # Hi there, I'm Soundarya Tanangi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=B.E.+IT+Graduate;Full-Stack+Developer;Java+%7C+React+%7C+PHP+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=B.E.+IT+Graduate;Full-Stack+Developer;Java+%7C+SQL+%7C+Web-Technologies+%7C)](https://git.io/typing-svg)
 
 I build end-to-end web apps — from elegant UIs to robust backends. Passionate about clean code, real-world impact, and continuous learning.
 
