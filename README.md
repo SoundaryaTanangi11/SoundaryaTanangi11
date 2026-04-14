@@ -30,14 +30,6 @@ I build end-to-end web apps — from elegant UIs to robust backends. Passionate 
 
 ---
 
-## 📊 GitHub Stats
-
-![Soundarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoundaryaTanangi11&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoundaryaTanangi11&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-soundaryatanangi1110%40gmail.com-red?style=flat-square&logo=gmail)](mailto:soundaryatanangi1110@gmail.com)
