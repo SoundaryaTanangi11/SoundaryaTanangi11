@@ -14,7 +14,6 @@ I build end-to-end web apps — from elegant UIs to robust backends. Passionate 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -23,7 +22,7 @@ I build end-to-end web apps — from elegant UIs to robust backends. Passionate 
 
 ### 🚽 [Parimal Smart Washroom Monitoring](https://github.com/SoundaryaTanangi11/parimal-smart-wash...)
 > Smart Washroom Monitoring System with real-time Dashboard, Charts, and Admin Panel  
-> `PHP` · `IoT` · `Dashboard`
+> `PHP` · `IoT` · `Web Technologies`
 
 ### 🩸 [Blood Bank Management System](https://github.com/SoundaryaTanangi11/Blood-Bank-Management-System)
 > Java-based Blood Bank Management System for efficient donor management and real-time blood stock tracking  
